@@ -1,0 +1,243 @@
+[
+  {
+    "name": "&9M16A4",
+    "gameid": "1",
+    "DisplayItemId": 290,
+    "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 30,
+    "bulletRange": 30,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 8,
+    "BulletsPerShot": 1,
+    "ShootingTimeout": 4,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "M16A4-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "m16a4_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&8AK-47",
+    "gameid": "2",
+    "DisplayItemId": 290,
+    "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 20,
+    "bulletRange": 30,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 8,
+    "BulletsPerShot": 1,
+    "ShootingTimeout": 4,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "AK47-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "ak47_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&9UMP-45",
+    "gameid": "3",
+    "DisplayItemId": 290,
+   "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 20,
+    "bulletRange": 25,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 7,
+    "BulletsPerShot": 1,
+    "ShootingTimeout": 6,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "UMP45-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "ump45_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&9MP5",
+    "gameid": "4",
+    "DisplayItemId": 290,
+    "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 20,
+    "bulletRange": 20,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 7,
+    "BulletsPerShot": 1,
+    "ShootingTimeout": 4,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "MP5-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "mp5_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&8MAC-10",
+    "gameid": "5",
+    "DisplayItemId": 290,
+    "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 16,
+    "bulletRange": 10,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 6,
+    "BulletsPerShot": 3,
+    "ShootingTimeout": 30,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "MAC10-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "mac10_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&8REVOLVER",
+    "gameid": "6",
+    "DisplayItemId": 290,
+    "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 5,
+    "bulletRange": 30,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 8,
+    "BulletsPerShot": 1,
+    "ShootingTimeout": 30,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "REVOLVER-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "revolver_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&9COLT-M1911",
+    "gameid": "7",
+    "DisplayItemId": 290,
+    "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 8,
+    "bulletRange": 20,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 5,
+    "BulletsPerShot": 1,
+    "ShootingTimeout": 20,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "COLTM1911-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "coltm1911_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&8MAKAROV",
+    "gameid": "8",
+    "DisplayItemId": 290,
+    "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 8,
+    "bulletRange": 20,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 5,
+    "BulletsPerShot": 1,
+    "ShootingTimeout": 20,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "MAKAROV-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "makarov_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&9M16A4 BURST",
+    "gameid": "9",
+    "DisplayItemId": 290,
+    "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 30,
+    "bulletRange": 30,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 15,
+    "BulletsPerShot": 3,
+    "ShootingTimeout": 15,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "M16A4-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "m16a4_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&8AK-47 BURST",
+    "gameid": "10",
+    "DisplayItemId": 290,
+    "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 20,
+    "bulletRange": 30,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 13,
+    "BulletsPerShot": 3,
+    "ShootingTimeout": 15,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "AK47-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "ak47_fullmodel",
+    "max_durability": 100
+  },
+  {
+    "name": "&9UMP-45 BURST",
+    "gameid": "11",
+    "DisplayItemId": 290,
+   "description": "&5Officieel Minetopia World Wapen",
+    "maxammo": 20,
+    "bulletRange": 25,
+    "hasscope": false,
+    "silenced": false,
+    "damageperbullet": 10,
+    "BulletsPerShot": 3,
+    "ShootingTimeout": 15,
+    "ChanseOfMissingPerBlock": 0.7,
+    "recoil": 0,
+    "applicableBulletTypes": [
+      "UMP45-AMMO"
+    ],
+    "applicableAttachments": [],
+    "resourcePackTag": "ump45_fullmodel",
+    "max_durability": 100
+  }
+]
+
+
+
+
+
+
+
+
+
+
